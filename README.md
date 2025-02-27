@@ -34,7 +34,8 @@ cd breast-cancer-detection
 python breast_cancer_detection.py
 
 
-## **📬 Contact**  
+
+## 📬 Contact
 For any questions or collaborations, feel free to reach out:  
 
 📧 Email: khalilinassim85@gmail.com 
