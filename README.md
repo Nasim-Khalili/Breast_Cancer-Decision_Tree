@@ -32,7 +32,7 @@ pip install pandas scikit-learn matplotlib
 git clone https://github.com/Nasim-Khalili/breast-cancer-detection.git
 cd breast-cancer-detection
 python breast_cancer_detection.py
-
+```
 
 
 ## 📬 Contact
